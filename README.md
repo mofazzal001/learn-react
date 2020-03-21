@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Branch documentation
+In each branch we have practiced different features and functionality of Reach
+
+* Components - What is Functional component and how to use it
+* Seasons - Created a react app where we take user location and updated the homepage whether it is 
+summer or winter. We use Class component and introduction to state
+* Forms & Events - Digging further down how we can take user input and use it in React
 ## Available Scripts
 
 In the project directory, you can run:
