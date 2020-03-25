@@ -7,6 +7,9 @@ In each branch we have practiced different features and functionality of Reach
 * Seasons - Created a react app where we take user location and updated the homepage whether it is 
 summer or winter. We use Class component and introduction to state
 * Forms & Events - Digging further down how we can take user input and use it in React
+* Video App - Understanding more about component and states. Used Youtube public API to 
+get videos and show in the app.    
+
 ## Available Scripts
 
 In the project directory, you can run:
